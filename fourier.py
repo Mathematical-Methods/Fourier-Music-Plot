@@ -112,5 +112,5 @@ def plot_frequency_paths(audio_file, N=10, window_size=1024, hop_size=256, durat
 # Example usage
 if __name__ == "__main__":
     # Replace with your audio file path
-    audio_file = "/home/unknown/Downloads/What (ever) (feat. SOJUDA)-yt.savetube.me.mp3"
+    audio_file = "./What (ever) (feat. SOJUDA)-yt.savetube.me.mp3"
     plot_frequency_paths(audio_file, N=10, duration=None)
